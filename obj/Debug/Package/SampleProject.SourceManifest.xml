@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <contentPath path="C:\Project\Sample\SampleProject\SampleProject\obj\Debug\Package\PackageTmp" />
+  <setAcl path="C:\Project\Sample\SampleProject\SampleProject\obj\Debug\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Project\Sample\SampleProject\SampleProject\obj\Debug\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>
